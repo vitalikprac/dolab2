@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59165beee5323bf086007fb50ce01125",
+    "revision": "69acab414c9063c99e8ce75965bf8be5",
     "url": "/dolab2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dolab2/static/css/2.5e6cee6f.chunk.css"
   },
   {
-    "revision": "ea48d89844be0d125df6",
+    "revision": "d8091faf78544c043f32",
     "url": "/dolab2/static/css/main.f7a18c83.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dolab2/static/js/2.b8b6a142.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea48d89844be0d125df6",
-    "url": "/dolab2/static/js/main.9c37a78d.chunk.js"
+    "revision": "d8091faf78544c043f32",
+    "url": "/dolab2/static/js/main.59f10ed7.chunk.js"
   },
   {
     "revision": "f70017ad6ac3ac3653e8",
